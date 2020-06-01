@@ -29,10 +29,31 @@
     <None Include="..\tesseract_3.05\ReleaseNotes" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\giflib\giflib.vcxproj">
+      <Project>{41f12953-3463-4ce0-b2e0-26edd6948ed9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\libjpeg\libjpeg.vcxproj">
+      <Project>{eba2ae0f-2bbc-406d-9a34-3bc8ea89d5cf}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\liblept\liblept.vcxproj">
       <Project>{e6961845-0d83-4cb0-9928-064e63d90ff2}</Project>
       <LinkLibraryDependencies>true</LinkLibraryDependencies>
       <UseLibraryDependencyInputs>true</UseLibraryDependencyInputs>
+    </ProjectReference>
+    <ProjectReference Include="..\libpng\libpng.vcxproj">
+      <Project>{cfe7f335-be15-417c-9498-98e79f9eb18e}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\libtiff\libtiff.vcxproj">
+      <Project>{1d6f8728-4be8-4142-95e7-7430d3891c72}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\libwebp\libwebp.vcxproj">
+      <Project>{37ad3712-9022-4665-bb77-0cc8b2b49d8a}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\openjpeg\openjpeg.vcxproj">
+      <Project>{6b46ed03-25fe-475d-a93c-34aea797571f}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\zlib\zlib.vcxproj">
+      <Project>{b6b31e79-633d-4c8b-8beb-98e90394bc90}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -569,34 +590,35 @@
     <ProjectGuid>{D5811ADA-EF79-4F95-A81C-0CAE618C1198}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>libtesseract</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>NotSet</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>NotSet</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>NotSet</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>NotSet</CharacterSet>
+    <UseOfMfc>false</UseOfMfc>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
@@ -618,6 +640,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <CodeAnalysisRuleSet>NativeRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <CodeAnalysisRuleSet>NativeMinimumRules.ruleset</CodeAnalysisRuleSet>
@@ -635,7 +658,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>GRAPHICS_DISABLED;_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS;_CRT_SECURE_NO_WARNINGS;_LIB;USE_STD_NAMESPACE;WINDLLNAME="$(TargetFileName)"; WIN32;_DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>$(SolutionDir)tesseract_3.05\vs2010\port;$(SolutionDir)tesseract_3.05\api;$(SolutionDir)tesseract_3.05\ccmain;$(SolutionDir)tesseract_3.05\ccutil;$(SolutionDir)tesseract_3.05\ccstruct;$(SolutionDir)tesseract_3.05\classify;$(SolutionDir)tesseract_3.05\cube;$(SolutionDir)tesseract_3.05\cutil;$(SolutionDir)tesseract_3.05\dict;$(SolutionDir)tesseract_3.05\neural_networks\runtime;$(SolutionDir)tesseract_3.05\textord;$(SolutionDir)tesseract_3.05\viewer;$(SolutionDir)tesseract_3.05\opencl;$(SolutionDir)tesseract_3.05\wordrec;$(SolutionDir)liblept;$(SolutionDir)leptonica\src</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)tesseract_3.05\vs2010\port;$(SolutionDir)tesseract_3.05\api;$(SolutionDir)tesseract_3.05\ccmain;$(SolutionDir)tesseract_3.05\ccutil;$(SolutionDir)tesseract_3.05\ccstruct;$(SolutionDir)tesseract_3.05\classify;$(SolutionDir)tesseract_3.05\cube;$(SolutionDir)tesseract_3.05\cutil;$(SolutionDir)tesseract_3.05\dict;$(SolutionDir)tesseract_3.05\neural_networks\runtime;$(SolutionDir)tesseract_3.05\textord;$(SolutionDir)tesseract_3.05\viewer;$(SolutionDir)tesseract_3.05\opencl;$(SolutionDir)tesseract_3.05\wordrec;$(SolutionDir)liblept\src;$(SolutionDir)leptonica\src</AdditionalIncludeDirectories>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <StringPooling>true</StringPooling>
       <MinimalRebuild>false</MinimalRebuild>
@@ -656,7 +679,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>GRAPHICS_DISABLED;_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS;_CRT_SECURE_NO_WARNINGS;_LIB;USE_STD_NAMESPACE;WINDLLNAME="$(TargetFileName)"; _DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>$(SolutionDir)tesseract_3.05\vs2010\port;$(SolutionDir)tesseract_3.05\api;$(SolutionDir)tesseract_3.05\ccmain;$(SolutionDir)tesseract_3.05\ccutil;$(SolutionDir)tesseract_3.05\ccstruct;$(SolutionDir)tesseract_3.05\classify;$(SolutionDir)tesseract_3.05\cube;$(SolutionDir)tesseract_3.05\cutil;$(SolutionDir)tesseract_3.05\dict;$(SolutionDir)tesseract_3.05\neural_networks\runtime;$(SolutionDir)tesseract_3.05\textord;$(SolutionDir)tesseract_3.05\viewer;$(SolutionDir)tesseract_3.05\opencl;$(SolutionDir)tesseract_3.05\wordrec;$(SolutionDir)liblept;$(SolutionDir)leptonica\src</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)tesseract_3.05\vs2010\port;$(SolutionDir)tesseract_3.05\api;$(SolutionDir)tesseract_3.05\ccmain;$(SolutionDir)tesseract_3.05\ccutil;$(SolutionDir)tesseract_3.05\ccstruct;$(SolutionDir)tesseract_3.05\classify;$(SolutionDir)tesseract_3.05\cube;$(SolutionDir)tesseract_3.05\cutil;$(SolutionDir)tesseract_3.05\dict;$(SolutionDir)tesseract_3.05\neural_networks\runtime;$(SolutionDir)tesseract_3.05\textord;$(SolutionDir)tesseract_3.05\viewer;$(SolutionDir)tesseract_3.05\opencl;$(SolutionDir)tesseract_3.05\wordrec;$(SolutionDir)liblept\src;$(SolutionDir)leptonica\src</AdditionalIncludeDirectories>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <StringPooling>true</StringPooling>
       <MinimalRebuild>false</MinimalRebuild>
@@ -664,6 +687,7 @@
       <RuntimeTypeInfo>false</RuntimeTypeInfo>
       <FloatingPointModel>Fast</FloatingPointModel>
       <AdditionalOptions />
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -705,7 +729,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>GRAPHICS_DISABLED;_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS;_CRT_SECURE_NO_WARNINGS;_LIB;USE_STD_NAMESPACE;WINDLLNAME="$(TargetFileName)"; NDEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>$(SolutionDir)tesseract_3.05\vs2010\port;$(SolutionDir)tesseract_3.05\api;$(SolutionDir)tesseract_3.05\ccmain;$(SolutionDir)tesseract_3.05\ccutil;$(SolutionDir)tesseract_3.05\ccstruct;$(SolutionDir)tesseract_3.05\classify;$(SolutionDir)tesseract_3.05\cube;$(SolutionDir)tesseract_3.05\cutil;$(SolutionDir)tesseract_3.05\dict;$(SolutionDir)tesseract_3.05\neural_networks\runtime;$(SolutionDir)tesseract_3.05\textord;$(SolutionDir)tesseract_3.05\viewer;$(SolutionDir)tesseract_3.05\opencl;$(SolutionDir)tesseract_3.05\wordrec;$(SolutionDir)liblept;$(SolutionDir)leptonica\src</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)tesseract_3.05\vs2010\port;$(SolutionDir)tesseract_3.05\api;$(SolutionDir)tesseract_3.05\ccmain;$(SolutionDir)tesseract_3.05\ccutil;$(SolutionDir)tesseract_3.05\ccstruct;$(SolutionDir)tesseract_3.05\classify;$(SolutionDir)tesseract_3.05\cube;$(SolutionDir)tesseract_3.05\cutil;$(SolutionDir)tesseract_3.05\dict;$(SolutionDir)tesseract_3.05\neural_networks\runtime;$(SolutionDir)tesseract_3.05\textord;$(SolutionDir)tesseract_3.05\viewer;$(SolutionDir)tesseract_3.05\opencl;$(SolutionDir)tesseract_3.05\wordrec;$(SolutionDir)liblept\src;$(SolutionDir)leptonica\src</AdditionalIncludeDirectories>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <StringPooling>true</StringPooling>
