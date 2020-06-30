@@ -7,6 +7,8 @@ A simple *test_tesseract.bat* is available to show how to run OCR on different i
 
 # Windows下静态编译 Tessearct4.1.1
 
+## [参考博客]{https://www.cnblogs.com/njit-77/p/12878348.html}
+
 ## Used Libraries
 * [Giflib 5.2.1](http://giflib.sourceforge.net/)
 * [libtiff 4.1.0](http://simplesystems.org/libtiff/)
