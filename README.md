@@ -5,7 +5,7 @@ This repository should help developers to compile tesseract OCR with Visual Stud
 It contains a *build_tesseract.bat* to build the latest tesseract version.
 A simple *test_tesseract.bat* is available to show how to run OCR on different image fileformats and generate a pdf.
 
-# Windows下静态编译 Tessearct3.05
+# Windows下静态编译 Tessearct4.1.1
 
 ## Used Libraries
 * [Giflib 5.2.1](http://giflib.sourceforge.net/)
@@ -17,4 +17,4 @@ A simple *test_tesseract.bat* is available to show how to run OCR on different i
 * [jbig2enc 0.28](https://github.com/agl/jbig2enc)
 * [webp master](https://chromium.googlesource.com/webm/libwebp)
 * [leptonica master](https://github.com/DanBloomberg/leptonica)
-* [tesseract 3.05](https://github.com/tesseract-ocr/tesseract)
+* [tesseract 4.1.1](https://github.com/tesseract-ocr/tesseract)

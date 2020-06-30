@@ -103,94 +103,184 @@
     <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\allheaders.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\alltypes.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\array.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\arrayaccess.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\bbuffer.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\bilateral.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\bmf.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\bmfdata.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\bmp.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\ccbord.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\dewarp.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\environ.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\gplot.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\heap.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\imageio.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\jbclass.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\leptwin.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\list.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\morph.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\pix.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\ptra.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\queue.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\rbtree.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\recog.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\readbarcode.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\regutils.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\stack.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\stringcode.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\sudoku.h">
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\watershed.h">
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\leptonica\src\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -711,532 +801,1072 @@
     <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\adaptmap.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\affine.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\affinecompose.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\arrayaccess.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bardecode.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\baseline.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bbuffer.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bilateral.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bilinear.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\binarize.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\binexpand.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\binreduce.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\blend.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bmf.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bmpio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bmpiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bootnumgen1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bootnumgen2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bootnumgen3.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\boxbasic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\boxfunc1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\boxfunc2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\boxfunc3.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\boxfunc4.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\bytearray.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ccbord.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ccthin.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\classapp.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colorcontent.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\coloring.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colormap.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colormorph.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colorquant1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colorquant2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colorseg.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\colorspace.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\compare.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\conncomp.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\convertfiles.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\convolve.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\correlscore.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dewarp1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dewarp2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dewarp3.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dewarp4.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dnabasic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dnafunc1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dnahash.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dwacomb.2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\dwacomblow.2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\edge.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\encoding.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\enhance.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fhmtauto.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fhmtgen.1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fhmtgenlow.1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\finditalic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\flipdetect.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fliphmtgen.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fmorphauto.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fmorphgen.1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fmorphgenlow.1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fpix1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\fpix2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\gifio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\gifiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\gplot.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\graphics.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\graymorph.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\grayquant.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\grayquantlow.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\heap.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jbclass.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jp2kheader.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jp2kheaderstub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jp2kio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jp2kiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jpegio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\jpegiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\kernel.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\leptwin.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\libversions.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\list.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\map.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\maze.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\morph.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\morphapp.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\morphdwa.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\morphseq.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\numabasic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\numafunc1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\numafunc2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pageseg.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\paintcmap.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\parseprotos.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\partition.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pdfio1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pdfio1stub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pdfio2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pdfio2stub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pix1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pix2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pix3.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pix4.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pix5.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixabasic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixacc.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixafunc1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixafunc2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixalloc.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixarith.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixcomp.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixconv.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixlabel.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pixtiling.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pngio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pngiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pnmio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\pnmiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\projective.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\psio1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\psio1stub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\psio2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\psio2stub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ptabasic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ptafunc1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ptafunc2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ptra.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\quadtree.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\queue.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rank.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rbtree.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\readbarcode.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\readfile.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\recogbasic.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\recogdid.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\recogident.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\recogtrain.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\regutils.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rop.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ropiplow.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\roplow.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rotate.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rotateam.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rotateamlow.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rotateorth.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\rotateshear.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\runlength.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\sarray1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\sarray2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\scale.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\scalelow.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\seedfill.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\seedfilllow.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\sel1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\sel2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\selgen.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\shear.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\skew.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\spixio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\stack.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\stringcode.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\strokes.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\sudoku.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\textops.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\tiffio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\tiffiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\utils1.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\utils2.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\warper.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\watershed.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\webpio.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\webpiostub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\writefile.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\zlibmem.c">
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\zlibmemstub.c">
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\leptonica\src\*.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
